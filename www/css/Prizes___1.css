@@ -1,0 +1,734 @@
+.mediaViewInfo {
+	--web-view-name: Prizes – 1;
+	--web-view-id: Prizes__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Prizes__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Prizes__1_Class {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(241,186,186,1);
+	overflow: hidden;
+	--web-view-name: Prizes – 1;
+	--web-view-id: Prizes__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+	-webkit-touch-callout:   none;
+	-webkit-text-size-adjust:   none;
+	-webkit-user-select:   none;
+	user-select:   none;
+	-webkit-tap-highlight-color:  rgba(0,0,0,0.3);
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Rectangle_1646_Class {
+	opacity: 0;
+	fill: rgba(0,0,0,1);
+}
+.Rectangle_1646 {
+	position: absolute;
+	overflow: visible;
+	width: 100%;
+	height: 100%;
+	left: 0px;
+	top: 0px;
+}
+.Navigation_Bar_5_dk_Class {
+	position: absolute;
+	width: 100%;
+	height: 68px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Merged_bar_dl_Class {
+	position: absolute;
+	width: 100%;
+	height: 68px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Merged_bar_dm_Class {
+	fill: rgba(250,176,17,1);
+}
+.Merged_bar_dm {
+	overflow: visible;
+	position: absolute;
+	width: 71px;
+	height: 68px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Prizes_dn_Class {
+	left: 50%;
+	transform: translateX(-50%);
+	top: 18px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	line-height: 31px;
+	margin-top: -3.5px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+.redeem-24px_do_Class {
+	position: absolute;
+	width: 47px;
+	height: 47px;
+	left: 10px;
+	top: 10px;
+	overflow: visible;
+}
+.Path_289_dp_Class {
+	fill: transparent;
+}
+.Path_289_dp {
+	overflow: visible;
+	position: absolute;
+	width: 47px;
+	height: 47px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_290_dq_Class {
+	fill: rgba(255,255,255,1);
+}
+.Path_290_dq {
+	overflow: visible;
+	position: absolute;
+	width: 41.233px;
+	height: 39.792px;
+	left: 2.883px;
+	top: 2.883px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Group_1580_Class {
+	position: absolute;
+	width: 375px;
+	height: 685px;
+	left: 50%;
+	transform: translateX(-50%);
+	top: 70px;
+	overflow: visible;
+}
+.post_ds_Class {
+	position: absolute;
+	width: 375px;
+	height: 100%;
+	left: 50%;
+	transform: translateX(-50%);
+	top: 40px;
+	overflow: visible;
+}
+.Rectangle_170_dt_Class {
+	opacity: 0.3;
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_170_dt {
+	position: absolute;
+	overflow: visible;
+	width: 375px;
+	height: 180px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_171_du_Class {
+	fill: rgba(223,0,36,1);
+}
+.Rectangle_171_du {
+	position: absolute;
+	overflow: visible;
+	width: 375px;
+	height: 465px;
+	left: 0px;
+	top: 180px;
+}
+.Prize_1_dv_Class {
+	left: 48px;
+	top: 199px;
+	position: absolute;
+	overflow: visible;
+	width: 115px;
+	white-space: nowrap;
+	line-height: 48px;
+	margin-top: -5.5px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 37px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+.A_Roblox_giftcard_for_all_of_y_dw_Class {
+	left: 48px;
+	top: 252px;
+	position: absolute;
+	overflow: visible;
+	width: 288px;
+	height: 94px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+.download_1_dx_Class {
+	filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.31));
+	position: absolute;
+	width: 139px;
+	height: 180.5px;
+	left: 118px;
+	top: 0px;
+	overflow: visible;
+}
+.Main_dy_Class {
+	position: absolute;
+	width: 48px;
+	height: 34px;
+	left: 233px;
+	top: 207px;
+	overflow: visible;
+}
+.ID5_dz_Class {
+	left: 34px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 15px;
+	white-space: nowrap;
+	line-height: 31px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+.flag-24px_ea_Class {
+	position: absolute;
+	width: 34px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Group_1531_ea_Class {
+	position: absolute;
+	width: 34px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_1631_ea_Class {
+	fill: transparent;
+}
+.Rectangle_1631_ea {
+	position: absolute;
+	overflow: visible;
+	width: 34px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+}
+.Group_1533_ea_Class {
+	position: absolute;
+	width: 21.25px;
+	height: 24.083px;
+	left: 7.083px;
+	top: 5.182px;
+	overflow: visible;
+}
+.Group_1532_ea_Class {
+	position: absolute;
+	width: 21.25px;
+	height: 24.083px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_302_d_Class {
+	fill: rgba(223,23,23,1);
+}
+.Path_302_d {
+	overflow: visible;
+	position: absolute;
+	width: 21.25px;
+	height: 24.083px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.flag-24px_ea_Class {
+	position: absolute;
+	width: 34px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Group_1531_ea_Class {
+	position: absolute;
+	width: 34px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_1631_ea_Class {
+	fill: transparent;
+}
+.Rectangle_1631_ea {
+	position: absolute;
+	overflow: visible;
+	width: 34px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+}
+.Group_1533_ea_Class {
+	position: absolute;
+	width: 21.25px;
+	height: 24.083px;
+	left: 7.083px;
+	top: 5.182px;
+	overflow: visible;
+}
+.Group_1532_ea_Class {
+	position: absolute;
+	width: 21.25px;
+	height: 24.083px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_302_eb_Class {
+	fill: rgba(255,255,255,1);
+}
+.Path_302_eb {
+	overflow: visible;
+	position: absolute;
+	width: 21.25px;
+	height: 24.083px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.You_have__15_ec_Class {
+	left: 16px;
+	top: 5px;
+	position: absolute;
+	overflow: visible;
+	width: 113px;
+	white-space: nowrap;
+	line-height: 31px;
+	margin-top: -6.5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(223,23,23,1);
+}
+.flag-24px_ed_Class {
+	position: absolute;
+	width: 34px;
+	height: 34px;
+	left: 128px;
+	top: 0px;
+	overflow: visible;
+}
+.Group_1531_ee_Class {
+	position: absolute;
+	width: 34px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_1631_ef_Class {
+	fill: transparent;
+}
+.Rectangle_1631_ef {
+	position: absolute;
+	overflow: visible;
+	width: 34px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+}
+.Group_1533_eg_Class {
+	position: absolute;
+	width: 21.25px;
+	height: 24.083px;
+	left: 7.083px;
+	top: 5.182px;
+	overflow: visible;
+}
+.Group_1532_eh_Class {
+	position: absolute;
+	width: 21.25px;
+	height: 24.083px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_302_ei_Class {
+	fill: rgba(223,23,23,1);
+}
+.Path_302_ei {
+	overflow: visible;
+	position: absolute;
+	width: 21.25px;
+	height: 24.083px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Group_1579_Class {
+	position: absolute;
+	width: 286px;
+	height: 83px;
+	left: 50%;
+	transform: translateX(-50%);
+	top: 514px;
+	overflow: visible;
+	transition: all 0.3s ease-out;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Prizes___2.html;
+	cursor: pointer;
+}
+.Rectangle_1636_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_1636 {
+	position: absolute;
+	overflow: visible;
+	width: 286px;
+	height: 83px;
+	left: 50%;
+	transform: translateX(-50%) translateY(-50%);
+	top: 50%;
+	transition: all 0.3s ease-out;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Prizes___2.html;
+	cursor: pointer;
+}
+.REEDEM_Class {
+	left: 60px;
+	top: 14px;
+	position: absolute;
+	overflow: visible;
+	width: 167px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 42px;
+	color: rgba(223,23,23,1);
+}
+.Component_272__8_Class {
+	position: absolute;
+	width: 100%;
+	height: 56px;
+	left: 0px;
+	bottom: 0px;
+	overflow: visible;
+	top:  calc(100% - 56px);
+}
+.Path_266_en_Class {
+	position: absolute;
+	width: 100%;
+	height: 56px;
+	left: 50%;
+	transform: translateX(-50%) translateY(-50%);
+	top: 50%;
+	overflow: visible;
+}
+.Group_1564_eo_Class {
+	position: absolute;
+	width: 100%;
+	height: 18px;
+	left: 50%;
+	transform: translateX(-50%);
+	top: 19px;
+	overflow: visible;
+	display:  flex;
+	justify-content:  space-between;
+	padding-top:  8px;
+	padding-bottom:  8px;
+	padding-right:  16px;
+	padding-left:  16px;
+}
+.Feed_ep_Class {
+	opacity: 0.3;
+	width: 16px;
+	height: 16px;
+	left: 0px;
+	top: 50%;
+	transform: translateY(-50%);
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Dashboard.html;
+	cursor: pointer;
+}
+.Path_102_eq_Class {
+	fill: rgba(223,0,36,1);
+}
+.Path_102_eq {
+	overflow: visible;
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.calendar_today-24px_1_er_Class {
+	opacity: 0.3;
+	width: 18px;
+	height: 18px;
+	left: 60px;
+	top: 50%;
+	transform: translateY(-50%);
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Schedule___Week.html;
+	cursor: pointer;
+}
+.Path_267_es_Class {
+	fill: transparent;
+}
+.Path_267_es {
+	overflow: visible;
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_268_et_Class {
+	fill: rgba(162,39,251,1);
+}
+.Path_268_et {
+	overflow: visible;
+	position: absolute;
+	width: 14px;
+	height: 16px;
+	left: 2px;
+	top: 1px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Group_1563_eu_Class {
+	width: 14px;
+	height: 13px;
+	left: 184px;
+	top: 50%;
+	transform: translateY(-50%);
+	overflow: visible;
+}
+.Path_273_ev_Class {
+	fill: rgba(250,176,17,1);
+}
+.Path_273_ev {
+	overflow: visible;
+	position: absolute;
+	width: 14px;
+	height: 13px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.donut_large-24px_ew_Class {
+	opacity: 0.3;
+	width: 18px;
+	height: 18px;
+	left: 122px;
+	top: 50%;
+	transform: translateY(-50%);
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Progress____Leaderboard.html;
+	cursor: pointer;
+}
+.Group_753_ex_Class {
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_1089_ey_Class {
+	fill: transparent;
+}
+.Rectangle_1089_ey {
+	position: absolute;
+	overflow: visible;
+	width: 18px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+}
+.Group_756_ez_Class {
+	position: absolute;
+	width: 14px;
+	height: 14px;
+	left: 2px;
+	top: 2px;
+	overflow: visible;
+}
+.Group_755_e_Class {
+	position: absolute;
+	width: 14px;
+	height: 14px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Group_754_e_Class {
+	position: absolute;
+	width: 14px;
+	height: 14px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_271_e_Class {
+	fill: rgba(255,136,51,1);
+}
+.Path_271_e {
+	overflow: visible;
+	position: absolute;
+	width: 14px;
+	height: 14px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.run_circle-24px_e_Class {
+	opacity: 0.3;
+	width: 18px;
+	height: 18px;
+	left: 242px;
+	top: 50%;
+	transform: translateY(-50%);
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Excercises.html;
+	cursor: pointer;
+}
+.Group_757_e_Class {
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_1090_e_Class {
+	fill: transparent;
+}
+.Rectangle_1090_e {
+	position: absolute;
+	overflow: visible;
+	width: 18px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+}
+.Group_758_e_Class {
+	position: absolute;
+	width: 14px;
+	height: 14px;
+	left: 2px;
+	top: 2px;
+	overflow: visible;
+}
+.Path_274_e_Class {
+	fill: rgba(21,224,18,1);
+}
+.Path_274_e {
+	overflow: visible;
+	position: absolute;
+	width: 14px;
+	height: 14px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.code-24px_e_Class {
+	opacity: 0.3;
+	width: 18px;
+	height: 18px;
+	left: 303px;
+	top: 50%;
+	transform: translateY(-50%);
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Engineering.html;
+	cursor: pointer;
+}
+.Path_269_e_Class {
+	fill: transparent;
+}
+.Path_269_e {
+	overflow: visible;
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_270_fa_Class {
+	fill: rgba(32,138,250,1);
+}
+.Path_270_fa {
+	overflow: visible;
+	position: absolute;
+	width: 14px;
+	height: 12px;
+	left: 2px;
+	top: 3px;
+	transform: matrix(1,0,0,1,0,0);
+}

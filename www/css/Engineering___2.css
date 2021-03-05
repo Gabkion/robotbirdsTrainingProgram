@@ -1,0 +1,685 @@
+.mediaViewInfo {
+	--web-view-name: Engineering – 2;
+	--web-view-id: Engineering__2;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Engineering__2;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Engineering__2_Class {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(241,186,186,1);
+	overflow: hidden;
+	--web-view-name: Engineering – 2;
+	--web-view-id: Engineering__2;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+	-webkit-touch-callout:   none;
+	-webkit-text-size-adjust:   none;
+	-webkit-user-select:   none;
+	user-select:   none;
+	-webkit-tap-highlight-color:  rgba(0,0,0,0.3);
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.code-24px_kn_Class {
+	position: absolute;
+	width: 47px;
+	height: 47px;
+	left: 10px;
+	top: 11px;
+	overflow: visible;
+}
+.Path_286_ko_Class {
+	fill: transparent;
+}
+.Path_286_ko {
+	overflow: visible;
+	position: absolute;
+	width: 47px;
+	height: 47px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_287_kp_Class {
+	fill: rgba(255,255,255,1);
+}
+.Path_287_kp {
+	overflow: visible;
+	position: absolute;
+	width: 41.233px;
+	height: 29.7px;
+	left: 2.883px;
+	top: 8.65px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Group_1570_Class {
+	position: absolute;
+	width: 320px;
+	height: 599.539px;
+	left: 50%;
+	transform: translateX(-50%);
+	top: 86px;
+	overflow: visible;
+}
+.Repeat_Grid_3_Class {
+	position: absolute;
+	width: 320px;
+	height: 267.539px;
+	left: 0px;
+	top: 332px;
+	overflow: hidden;
+}
+.Group_1537_ks_Class {
+	position: absolute;
+	width: 320px;
+	height: 72.539px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_316_kt_Class {
+	fill: rgba(223,23,23,1);
+}
+.Path_316_kt {
+	overflow: visible;
+	position: absolute;
+	width: 320px;
+	height: 72.539px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Step_1_ku_Class {
+	left: 24px;
+	top: 4px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -4.5px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(255,255,255,1);
+}
+.Import_the_library_for_SevSeg_Class {
+	left: 17px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 187px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+.Group_1537_kw_Class {
+	position: absolute;
+	width: 320px;
+	height: 72.539px;
+	left: 0px;
+	top: 93px;
+	overflow: visible;
+}
+.Path_316_kx_Class {
+	fill: rgba(223,23,23,1);
+}
+.Path_316_kx {
+	overflow: visible;
+	position: absolute;
+	width: 320px;
+	height: 72.539px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Step_1_ky_Class {
+	left: 24px;
+	top: 4px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -4.5px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(255,255,255,1);
+}
+.Import_the_library_for_SevSeg_kz_Class {
+	left: 17px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 187px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+.Group_1537_k_Class {
+	position: absolute;
+	width: 320px;
+	height: 72.539px;
+	left: 0px;
+	top: 186px;
+	overflow: visible;
+}
+.Path_316_k_Class {
+	fill: rgba(223,23,23,1);
+}
+.Path_316_k {
+	overflow: visible;
+	position: absolute;
+	width: 320px;
+	height: 72.539px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Step_1_k_Class {
+	left: 24px;
+	top: 4px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -4.5px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(255,255,255,1);
+}
+.Import_the_library_for_SevSeg_k_Class {
+	left: 17px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 187px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+.Group_1540_k_Class {
+	position: absolute;
+	width: 320px;
+	height: 284px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_1634_k_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_1634_k {
+	position: absolute;
+	overflow: visible;
+	width: 320px;
+	height: 82px;
+	left: 0px;
+	top: 0px;
+}
+.Step_2_k_Class {
+	left: 125px;
+	top: 5px;
+	position: absolute;
+	overflow: visible;
+	width: 71px;
+	white-space: nowrap;
+	line-height: 35px;
+	margin-top: -6px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(223,23,23,1);
+}
+.Write_the_code_Class {
+	left: 29px;
+	top: 41px;
+	position: absolute;
+	overflow: visible;
+	width: 263px;
+	height: 28px;
+	line-height: 32px;
+	margin-top: -5.5px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 21px;
+	color: rgba(223,23,23,1);
+}
+.Image_9_Class {
+	position: absolute;
+	width: 317px;
+	height: 161px;
+	left: 1px;
+	top: 123px;
+	overflow: visible;
+}
+.Navigation_Bar_k_Class {
+	position: absolute;
+	width: 375px;
+	height: 68px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_68_la_Class {
+	fill: transparent;
+}
+.Rectangle_68_la {
+	position: absolute;
+	overflow: visible;
+	width: 375px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_69_lb_Class {
+	fill: transparent;
+}
+.Rectangle_69_lb {
+	position: absolute;
+	overflow: visible;
+	width: 375px;
+	height: 48px;
+	left: 0px;
+	top: 20px;
+}
+.Navigation_Bar_5_lc_Class {
+	position: absolute;
+	width: 100%;
+	height: 68px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Merged_bar_ld_Class {
+	position: absolute;
+	width: 100%;
+	height: 68px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Merged_bar_le_Class {
+	fill: rgba(32,138,250,1);
+}
+.Merged_bar_le {
+	overflow: visible;
+	position: absolute;
+	width: 71px;
+	height: 68px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Engineering_lf_Class {
+	left: 50%;
+	transform: translateX(-50%);
+	top: 18px;
+	position: absolute;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	line-height: 31px;
+	margin-top: -3.5px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+.Component_272__10_Class {
+	position: absolute;
+	width: 100%;
+	height: 56px;
+	left: 0px;
+	bottom: 0px;
+	overflow: visible;
+	top:  calc(100% - 56px);
+}
+.Path_266_lh_Class {
+	position: absolute;
+	width: 100%;
+	height: 56px;
+	left: 50%;
+	transform: translateX(-50%) translateY(-50%);
+	top: 50%;
+	overflow: visible;
+}
+.Group_1564_li_Class {
+	position: absolute;
+	width: 100%;
+	height: 18px;
+	left: 50%;
+	transform: translateX(-50%);
+	top: 19px;
+	overflow: visible;
+	display:  flex;
+	justify-content:  space-between;
+	padding-top:  8px;
+	padding-bottom:  8px;
+	padding-right:  16px;
+	padding-left:  16px;
+}
+.Feed_lj_Class {
+	opacity: 0.3;
+	width: 16px;
+	height: 16px;
+	left: 0px;
+	top: 50%;
+	transform: translateY(-50%);
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Dashboard.html;
+	cursor: pointer;
+}
+.Path_102_lk_Class {
+	fill: rgba(223,0,36,1);
+}
+.Path_102_lk {
+	overflow: visible;
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.calendar_today-24px_1_ll_Class {
+	opacity: 0.3;
+	width: 18px;
+	height: 18px;
+	left: 60px;
+	top: 50%;
+	transform: translateY(-50%);
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Schedule___Week.html;
+	cursor: pointer;
+}
+.Path_267_lm_Class {
+	fill: transparent;
+}
+.Path_267_lm {
+	overflow: visible;
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_268_ln_Class {
+	fill: rgba(162,39,251,1);
+}
+.Path_268_ln {
+	overflow: visible;
+	position: absolute;
+	width: 14px;
+	height: 16px;
+	left: 2px;
+	top: 1px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Group_1563_lo_Class {
+	width: 14px;
+	height: 13px;
+	left: 184px;
+	top: 50%;
+	transform: translateY(-50%);
+	overflow: visible;
+}
+.Path_273_lp_Class {
+	opacity: 0.3;
+	fill: rgba(250,176,17,1);
+}
+.Path_273_lp {
+	overflow: visible;
+	position: absolute;
+	width: 14px;
+	height: 13px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Prizes.html;
+	cursor: pointer;
+}
+.donut_large-24px_lq_Class {
+	opacity: 0.3;
+	width: 18px;
+	height: 18px;
+	left: 122px;
+	top: 50%;
+	transform: translateY(-50%);
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Progress____Leaderboard.html;
+	cursor: pointer;
+}
+.Group_753_lr_Class {
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_1089_ls_Class {
+	fill: transparent;
+}
+.Rectangle_1089_ls {
+	position: absolute;
+	overflow: visible;
+	width: 18px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+}
+.Group_756_lt_Class {
+	position: absolute;
+	width: 14px;
+	height: 14px;
+	left: 2px;
+	top: 2px;
+	overflow: visible;
+}
+.Group_755_lu_Class {
+	position: absolute;
+	width: 14px;
+	height: 14px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Group_754_lv_Class {
+	position: absolute;
+	width: 14px;
+	height: 14px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_271_lw_Class {
+	fill: rgba(255,136,51,1);
+}
+.Path_271_lw {
+	overflow: visible;
+	position: absolute;
+	width: 14px;
+	height: 14px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.run_circle-24px_lx_Class {
+	opacity: 0.3;
+	width: 18px;
+	height: 18px;
+	left: 242px;
+	top: 50%;
+	transform: translateY(-50%);
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Excercises.html;
+	cursor: pointer;
+}
+.Group_757_ly_Class {
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_1090_lz_Class {
+	fill: transparent;
+}
+.Rectangle_1090_lz {
+	position: absolute;
+	overflow: visible;
+	width: 18px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+}
+.Group_758_l_Class {
+	position: absolute;
+	width: 14px;
+	height: 14px;
+	left: 2px;
+	top: 2px;
+	overflow: visible;
+}
+.Path_274_l_Class {
+	fill: rgba(21,224,18,1);
+}
+.Path_274_l {
+	overflow: visible;
+	position: absolute;
+	width: 14px;
+	height: 14px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.code-24px_l_Class {
+	width: 18px;
+	height: 18px;
+	left: 303px;
+	top: 50%;
+	transform: translateY(-50%);
+	overflow: visible;
+}
+.Path_269_l_Class {
+	fill: transparent;
+}
+.Path_269_l {
+	overflow: visible;
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_270_l_Class {
+	fill: rgba(32,138,250,1);
+}
+.Path_270_l {
+	overflow: visible;
+	position: absolute;
+	width: 14px;
+	height: 12px;
+	left: 2px;
+	top: 3px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.code-24px_ma_Class {
+	position: absolute;
+	width: 47px;
+	height: 47px;
+	left: 9px;
+	top: 11px;
+	overflow: visible;
+}
+.Path_286_l_Class {
+	fill: transparent;
+}
+.Path_286_l {
+	overflow: visible;
+	position: absolute;
+	width: 47px;
+	height: 47px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_287_l_Class {
+	fill: rgba(255,255,255,1);
+}
+.Path_287_l {
+	overflow: visible;
+	position: absolute;
+	width: 41.233px;
+	height: 29.7px;
+	left: 2.883px;
+	top: 8.65px;
+	transform: matrix(1,0,0,1,0,0);
+}

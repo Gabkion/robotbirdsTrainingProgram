@@ -1,0 +1,74 @@
+.mediaViewInfo {
+	--web-view-name: Loading;
+	--web-view-id: Loading;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Loading;
+}
+body{
+	--web-action-type: page;
+	--web-action-target: Dashboard.html;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Loading_Class {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(223,0,36,1);
+	overflow: hidden;
+	--web-view-name: Loading;
+	--web-view-id: Loading;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+	-webkit-touch-callout:   none;
+	-webkit-text-size-adjust:   none;
+	-webkit-user-select:   none;
+	user-select:   none;
+	-webkit-tap-highlight-color:  rgba(0,0,0,0.3);
+}
+.Navigation_Bar_kh_Class {
+	position: absolute;
+	width: 375px;
+	height: 68px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_68_ki_Class {
+	fill: transparent;
+}
+.Rectangle_68_ki {
+	position: absolute;
+	overflow: visible;
+	width: 375px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_69_kj_Class {
+	fill: transparent;
+}
+.Rectangle_69_kj {
+	position: absolute;
+	overflow: visible;
+	width: 375px;
+	height: 48px;
+	left: 0px;
+	top: 20px;
+}
+.transparent_logo_app_Class {
+	position: absolute;
+	width: 720px;
+	height: 708px;
+	left: 50%;
+	transform: translateX(-50%) translateY(-50%);
+	top: 50%;
+	overflow: visible;
+}

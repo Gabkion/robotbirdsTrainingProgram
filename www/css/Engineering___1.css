@@ -1,0 +1,686 @@
+.mediaViewInfo {
+	--web-view-name: Engineering – 1;
+	--web-view-id: Engineering__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Engineering__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Engineering__1_Class {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(241,186,186,1);
+	overflow: hidden;
+	--web-view-name: Engineering – 1;
+	--web-view-id: Engineering__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+	-webkit-touch-callout:   none;
+	-webkit-text-size-adjust:   none;
+	-webkit-user-select:   none;
+	user-select:   none;
+	-webkit-tap-highlight-color:  rgba(0,0,0,0.3);
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.code-24px_iu_Class {
+	position: absolute;
+	width: 47px;
+	height: 47px;
+	left: 10px;
+	top: 11px;
+	overflow: visible;
+}
+.Path_286_iv_Class {
+	fill: transparent;
+}
+.Path_286_iv {
+	overflow: visible;
+	position: absolute;
+	width: 47px;
+	height: 47px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_287_iw_Class {
+	fill: rgba(255,255,255,1);
+}
+.Path_287_iw {
+	overflow: visible;
+	position: absolute;
+	width: 41.233px;
+	height: 29.7px;
+	left: 2.883px;
+	top: 8.65px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Group_1569_Class {
+	position: absolute;
+	width: 320px;
+	height: 639.539px;
+	left: 50%;
+	transform: translateX(-50%) translateY(-50%);
+	top: 50%;
+	overflow: visible;
+}
+.Repeat_Grid_2_Class {
+	position: absolute;
+	width: 320px;
+	height: 270.539px;
+	left: 0px;
+	top: 369px;
+	overflow: hidden;
+}
+.Group_1537_iz_Class {
+	position: absolute;
+	width: 320px;
+	height: 72.539px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_316_Class {
+	fill: rgba(223,23,23,1);
+}
+.Path_316 {
+	overflow: visible;
+	position: absolute;
+	width: 320px;
+	height: 72.539px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Step_1_i_Class {
+	left: 24px;
+	top: 4px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -4.5px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(255,255,255,1);
+}
+.Connect_the_tilt_sensor_with_t_Class {
+	left: 17px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 287px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+.Group_1537_i_Class {
+	position: absolute;
+	width: 320px;
+	height: 72.539px;
+	left: 0px;
+	top: 93px;
+	overflow: visible;
+}
+.Path_316_i_Class {
+	fill: rgba(223,23,23,1);
+}
+.Path_316_i {
+	overflow: visible;
+	position: absolute;
+	width: 320px;
+	height: 72.539px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Step_1_ja_Class {
+	left: 24px;
+	top: 4px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -4.5px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(255,255,255,1);
+}
+.Connect_the_tilt_sensor_with_t_i_Class {
+	left: 17px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 287px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+.Group_1537_ja_Class {
+	position: absolute;
+	width: 320px;
+	height: 72.539px;
+	left: 0px;
+	top: 186px;
+	overflow: visible;
+}
+.Path_316_ja_Class {
+	fill: rgba(223,23,23,1);
+}
+.Path_316_ja {
+	overflow: visible;
+	position: absolute;
+	width: 320px;
+	height: 72.539px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Step_1_jb_Class {
+	left: 24px;
+	top: 4px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -4.5px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(255,255,255,1);
+}
+.Connect_the_tilt_sensor_with_t_ja_Class {
+	left: 17px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 287px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+.Group_1540_Class {
+	position: absolute;
+	width: 320px;
+	height: 334px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_1634_jc_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_1634_jc {
+	position: absolute;
+	overflow: visible;
+	width: 320px;
+	height: 82px;
+	left: 0px;
+	top: 0px;
+}
+.Step_1_jd_Class {
+	left: 126px;
+	top: 5px;
+	position: absolute;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	line-height: 35px;
+	margin-top: -6px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(223,23,23,1);
+}
+.Make_the_connections_Class {
+	left: 29px;
+	top: 41px;
+	position: absolute;
+	overflow: visible;
+	width: 263px;
+	height: 28px;
+	line-height: 32px;
+	margin-top: -5.5px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 21px;
+	color: rgba(223,23,23,1);
+}
+.Image_8_Class {
+	position: absolute;
+	width: 272px;
+	height: 228px;
+	left: 24px;
+	top: 106px;
+	overflow: visible;
+}
+.Navigation_Bar_jg_Class {
+	position: absolute;
+	width: 375px;
+	height: 68px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_68_jh_Class {
+	fill: transparent;
+}
+.Rectangle_68_jh {
+	position: absolute;
+	overflow: visible;
+	width: 375px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_69_ji_Class {
+	fill: transparent;
+}
+.Rectangle_69_ji {
+	position: absolute;
+	overflow: visible;
+	width: 375px;
+	height: 48px;
+	left: 0px;
+	top: 20px;
+}
+.Navigation_Bar_5_jj_Class {
+	position: absolute;
+	width: 100%;
+	height: 68px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Merged_bar_jk_Class {
+	position: absolute;
+	width: 100%;
+	height: 68px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Merged_bar_jl_Class {
+	fill: rgba(32,138,250,1);
+}
+.Merged_bar_jl {
+	overflow: visible;
+	position: absolute;
+	width: 71px;
+	height: 68px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Engineering_jm_Class {
+	left: 50%;
+	transform: translateX(-50%);
+	top: 18px;
+	position: absolute;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	line-height: 31px;
+	margin-top: -3.5px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+.Component_272__9_Class {
+	position: absolute;
+	width: 100%;
+	height: 56px;
+	left: 50%;
+	transform: translateX(-50%);
+	bottom: 0px;
+	overflow: visible;
+	top:  calc(100% - 56px);
+}
+.Path_266_jo_Class {
+	position: absolute;
+	width: 100%;
+	height: 56px;
+	left: 50%;
+	transform: translateX(-50%) translateY(-50%);
+	top: 50%;
+	overflow: visible;
+}
+.Group_1564_jp_Class {
+	position: absolute;
+	width: 100%;
+	height: 18px;
+	left: 50%;
+	transform: translateX(-50%);
+	top: 19px;
+	overflow: visible;
+	display:  flex;
+	justify-content:  space-between;
+	padding-top:  8px;
+	padding-bottom:  8px;
+	padding-right:  16px;
+	padding-left:  16px;
+}
+.Feed_jq_Class {
+	opacity: 0.3;
+	width: 16px;
+	height: 16px;
+	left: 0px;
+	top: 50%;
+	transform: translateY(-50%);
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Dashboard.html;
+	cursor: pointer;
+}
+.Path_102_jr_Class {
+	fill: rgba(223,0,36,1);
+}
+.Path_102_jr {
+	overflow: visible;
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.calendar_today-24px_1_js_Class {
+	opacity: 0.3;
+	width: 18px;
+	height: 18px;
+	left: 60px;
+	top: 50%;
+	transform: translateY(-50%);
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Schedule___Week.html;
+	cursor: pointer;
+}
+.Path_267_jt_Class {
+	fill: transparent;
+}
+.Path_267_jt {
+	overflow: visible;
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_268_ju_Class {
+	fill: rgba(162,39,251,1);
+}
+.Path_268_ju {
+	overflow: visible;
+	position: absolute;
+	width: 14px;
+	height: 16px;
+	left: 2px;
+	top: 1px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Group_1563_jv_Class {
+	width: 14px;
+	height: 13px;
+	left: 184px;
+	top: 50%;
+	transform: translateY(-50%);
+	overflow: visible;
+}
+.Path_273_jw_Class {
+	opacity: 0.3;
+	fill: rgba(250,176,17,1);
+}
+.Path_273_jw {
+	overflow: visible;
+	position: absolute;
+	width: 14px;
+	height: 13px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Prizes.html;
+	cursor: pointer;
+}
+.donut_large-24px_jx_Class {
+	opacity: 0.3;
+	width: 18px;
+	height: 18px;
+	left: 122px;
+	top: 50%;
+	transform: translateY(-50%);
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Progress____Leaderboard.html;
+	cursor: pointer;
+}
+.Group_753_jy_Class {
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_1089_jz_Class {
+	fill: transparent;
+}
+.Rectangle_1089_jz {
+	position: absolute;
+	overflow: visible;
+	width: 18px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+}
+.Group_756_j_Class {
+	position: absolute;
+	width: 14px;
+	height: 14px;
+	left: 2px;
+	top: 2px;
+	overflow: visible;
+}
+.Group_755_j_Class {
+	position: absolute;
+	width: 14px;
+	height: 14px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Group_754_j_Class {
+	position: absolute;
+	width: 14px;
+	height: 14px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_271_j_Class {
+	fill: rgba(255,136,51,1);
+}
+.Path_271_j {
+	overflow: visible;
+	position: absolute;
+	width: 14px;
+	height: 14px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.run_circle-24px_j_Class {
+	opacity: 0.3;
+	width: 18px;
+	height: 18px;
+	left: 242px;
+	top: 50%;
+	transform: translateY(-50%);
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Excercises.html;
+	cursor: pointer;
+}
+.Group_757_j_Class {
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_1090_j_Class {
+	fill: transparent;
+}
+.Rectangle_1090_j {
+	position: absolute;
+	overflow: visible;
+	width: 18px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+}
+.Group_758_j_Class {
+	position: absolute;
+	width: 14px;
+	height: 14px;
+	left: 2px;
+	top: 2px;
+	overflow: visible;
+}
+.Path_274_j_Class {
+	fill: rgba(21,224,18,1);
+}
+.Path_274_j {
+	overflow: visible;
+	position: absolute;
+	width: 14px;
+	height: 14px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.code-24px_j_Class {
+	width: 18px;
+	height: 18px;
+	left: 303px;
+	top: 50%;
+	transform: translateY(-50%);
+	overflow: visible;
+}
+.Path_269_ka_Class {
+	fill: transparent;
+}
+.Path_269_ka {
+	overflow: visible;
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_270_kb_Class {
+	fill: rgba(32,138,250,1);
+}
+.Path_270_kb {
+	overflow: visible;
+	position: absolute;
+	width: 14px;
+	height: 12px;
+	left: 2px;
+	top: 3px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.code-24px_kc_Class {
+	position: absolute;
+	width: 47px;
+	height: 47px;
+	left: 9px;
+	top: 11px;
+	overflow: visible;
+}
+.Path_286_kd_Class {
+	fill: transparent;
+}
+.Path_286_kd {
+	overflow: visible;
+	position: absolute;
+	width: 47px;
+	height: 47px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_287_ke_Class {
+	fill: rgba(255,255,255,1);
+}
+.Path_287_ke {
+	overflow: visible;
+	position: absolute;
+	width: 41.233px;
+	height: 29.7px;
+	left: 2.883px;
+	top: 8.65px;
+	transform: matrix(1,0,0,1,0,0);
+}
