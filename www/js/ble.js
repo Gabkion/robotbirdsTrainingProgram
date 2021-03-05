@@ -151,15 +151,23 @@ var app = {
         return out;
     },
 
+    converData: function (Uint8Arr) {
+        var length = Uint8Arr.length;
+    
+        let buffer = Buffer.from(Uint8Arr);
+        var result = buffer.readUIntBE(0, length);
+    
+        return result;
+    },
+
     onData: function(buffer) { // data received from MetaWear
-
-        var data = new Uint8Array(buffer);
-        var string = app.editData(data);
-
         try {
+            var data = new Uint8Array(buffer);
+            //var string = app.editData(data);
+            //var num = app.converData(data)
+            // alert(data)
             var valuespan = document.getElementById("value").children[0]
-
-         valuespan.innerHTML = string;
+            valuespan.innerHTML = data[0];
         } catch (error) {
             alert(error)
         }
