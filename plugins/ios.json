@@ -1,0 +1,33 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-ble-central": {
+      "IOS_INIT_ON_LOAD": "true",
+      "BLUETOOTH_USAGE_DESCRIPTION": " ",
+      "PACKAGE_NAME": "com.examples.RBTest"
+    },
+    "cordova-plugin-navigationbar-color": {
+      "PACKAGE_NAME": "com.examples.RBTest"
+    },
+    "cordova-plugin-screen-orientation": {
+      "PACKAGE_NAME": "com.examples.RBTest"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.examples.RBTest"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.examples.RBTest"
+    }
+  },
+  "dependent_plugins": {
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "com.examples.RBTest"
+    }
+  }
+}
